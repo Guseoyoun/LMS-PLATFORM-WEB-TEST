@@ -195,7 +195,7 @@ const MainPage: NextPage = () => {
                             </Typography>
                           </Box>
                           <Button color="neutral" sx={{ position: 'relative' }}>
-                            <Typography className='category-card-title' fontWeight="bold">바로가기 </Typography>
+                            <Typography className='category-card-title' fontWeight="bold">바로가기 입니당</Typography>
                             <Box
                               className="button-bot-line"
                               borderBottom={`2px solid ${lineColor}`}
